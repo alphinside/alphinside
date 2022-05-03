@@ -48,7 +48,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/alphinside"><img alt="Alphinside's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=alphinside's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/alphinside"><img alt="Alphinside's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alphinside&custom_title=alphinside's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
