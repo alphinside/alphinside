@@ -12,11 +12,17 @@
 - 🤓: Interested in topics related to `managing engineers` and `deep learning R&D`
 
 <br>
-<br>
 
-## 🛠️ My Skills
+## 🦉 Knowledge Repository
 
-### 👉 Programming languages
+<p align="center"> 
+  &emsp;
+   <a href="https://www.notion.so/Knowledge-Base-37c8f160b0ec473489eab905e02bb751" target="_blank">
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+</p>
+
+## 👉 Programming languages
 
 <p align="center"> 
   &emsp;
@@ -28,6 +34,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
+
+<br>
 
 ## 📊 Github Stats
 
