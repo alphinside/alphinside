@@ -9,7 +9,7 @@
 ## :sassy_man:  About me
 - 🏢: I am an AI Engineering Manager at [Pinhome](https://www.pinhome.id/)
 - 🧑‍💻: Currently specialized on `backend stacks` and establishing `MLOps pipeline`
-- 🤓: Interested in topics related to `managing engineers` and `deep learning R&D`
+- 🤓: Interested in topics related to `managing engineers` and `applied machine learning`
 
 <br>
 
