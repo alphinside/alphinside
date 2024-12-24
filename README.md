@@ -7,9 +7,9 @@
 <br>
 
 ## :sassy_man:  About me
-- 🏢: I am an AI Engineering Manager at [Pinhome](https://www.pinhome.id/)
-- 🧑‍💻: Currently specialized on `backend stacks` and establishing `MLOps pipeline`
-- 🤓: Interested in topics related to `managing engineers` and `applied machine learning`
+- 🏢: I am a AI/ML Developer Advocate at Google Cloud
+- 🧑‍💻: Specialized on end to end Applied AI/ML stacks and MLOps
+- 🤓: Interested in topics related to `generative AI` and `applied machine learning`
 
 <br>
 
