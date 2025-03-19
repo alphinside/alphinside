@@ -7,7 +7,7 @@
 <br>
 
 ## :sassy_man:  About me
-- 🏢: I am a AI/ML Developer Advocate at Google Cloud
+- 🏢: I am a Developer Advocate at Google Cloud
 - 🧑‍💻: Specialized on end to end Applied AI/ML stacks and MLOps
 - 🤓: Interested in topics related to `generative AI` and `applied machine learning`
 
